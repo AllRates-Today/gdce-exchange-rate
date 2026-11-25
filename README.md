@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-24 by General Department of Customs and Excise of Cambodia — 29 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-25 by General Department of Customs and Excise of Cambodia — 29 rates. Updated 2026-11-25.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
