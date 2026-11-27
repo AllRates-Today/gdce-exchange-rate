@@ -32,39 +32,39 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by General Department of Customs and Excise of Cambodia — 29 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by General Department of Customs and Excise of Cambodia — 29 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | KHR | reference | 1110.5 |
-| AUD | KHR | reference | 2720.5 |
-| CAD | KHR | reference | 2847 |
-| CHF | KHR | reference | 4842.5 |
-| CNY | KHR | reference | 611 |
+| AED | KHR | reference | 1111.5 |
+| AUD | KHR | reference | 2705.5 |
+| CAD | KHR | reference | 2869 |
+| CHF | KHR | reference | 4899 |
+| CNY | KHR | reference | 613 |
 | DKK | KHR | reference | 599 |
-| EUR | KHR | reference | 4476 |
+| EUR | KHR | reference | 4477 |
 | GBP | KHR | reference | 5347.5 |
 | HKD | KHR | reference | 520.5 |
-| IDR | KHR | reference | 0.2235 |
-| INR | KHR | reference | 43.94 |
-| JPY | KHR | reference | 25.645 |
-| KRW | KHR | reference | 3.055 |
+| IDR | KHR | reference | 0.2225 |
+| INR | KHR | reference | 44.11 |
+| JPY | KHR | reference | 25.63 |
+| KRW | KHR | reference | 3.035 |
 | LAK | KHR | reference | 0.182 |
 | MMK | KHR | reference | 1.95 |
 | MYR | KHR | reference | 992 |
-| NGN | KHR | reference | 3.015 |
-| NZD | KHR | reference | 2243.5 |
-| PHP | KHR | reference | 63.955 |
+| NGN | KHR | reference | 2.935 |
+| NZD | KHR | reference | 2235.5 |
+| PHP | KHR | reference | 64.035 |
 | RWF | KHR | reference | 2.775 |
 | SAR | KHR | reference | 1087.5 |
-| SEK | KHR | reference | 400 |
+| SEK | KHR | reference | 398.5 |
 | SGD | KHR | reference | 3162.5 |
-| THB | KHR | reference | 120.5 |
+| THB | KHR | reference | 119.5 |
 | TWD | KHR | reference | 123.5 |
-| USD | KHR | reference | 4059 |
-| VND | KHR | reference | 0.1585 |
-| XDR | KHR | reference | 5484 |
-| ZAR | KHR | reference | 234 |
+| USD | KHR | reference | 4060 |
+| VND | KHR | reference | 0.158 |
+| XDR | KHR | reference | 5474.5 |
+| ZAR | KHR | reference | 233 |
 
 </details>
 
